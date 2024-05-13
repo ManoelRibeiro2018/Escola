@@ -1,0 +1,11 @@
+C:\Users\manoe\OneDrive\Documentos\Project\Escola\Escola.Domain\bin\Debug\net8.0\Escola.Domain.deps.json
+C:\Users\manoe\OneDrive\Documentos\Project\Escola\Escola.Domain\bin\Debug\net8.0\Escola.Domain.dll
+C:\Users\manoe\OneDrive\Documentos\Project\Escola\Escola.Domain\bin\Debug\net8.0\Escola.Domain.pdb
+C:\Users\manoe\OneDrive\Documentos\Project\Escola\Escola.Domain\obj\Debug\net8.0\Escola.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manoe\OneDrive\Documentos\Project\Escola\Escola.Domain\obj\Debug\net8.0\Escola.Domain.AssemblyInfoInputs.cache
+C:\Users\manoe\OneDrive\Documentos\Project\Escola\Escola.Domain\obj\Debug\net8.0\Escola.Domain.AssemblyInfo.cs
+C:\Users\manoe\OneDrive\Documentos\Project\Escola\Escola.Domain\obj\Debug\net8.0\Escola.Domain.csproj.CoreCompileInputs.cache
+C:\Users\manoe\OneDrive\Documentos\Project\Escola\Escola.Domain\obj\Debug\net8.0\Escola.Domain.dll
+C:\Users\manoe\OneDrive\Documentos\Project\Escola\Escola.Domain\obj\Debug\net8.0\refint\Escola.Domain.dll
+C:\Users\manoe\OneDrive\Documentos\Project\Escola\Escola.Domain\obj\Debug\net8.0\Escola.Domain.pdb
+C:\Users\manoe\OneDrive\Documentos\Project\Escola\Escola.Domain\obj\Debug\net8.0\ref\Escola.Domain.dll

@@ -1,0 +1,15 @@
+C:\Users\manoe\OneDrive\Documentos\Project\Escola\Escolha.Application\bin\Debug\net8.0\Escola.Application.deps.json
+C:\Users\manoe\OneDrive\Documentos\Project\Escola\Escolha.Application\bin\Debug\net8.0\Escola.Application.dll
+C:\Users\manoe\OneDrive\Documentos\Project\Escola\Escolha.Application\bin\Debug\net8.0\Escola.Application.pdb
+C:\Users\manoe\OneDrive\Documentos\Project\Escola\Escolha.Application\bin\Debug\net8.0\Escola.Domain.dll
+C:\Users\manoe\OneDrive\Documentos\Project\Escola\Escolha.Application\bin\Debug\net8.0\Escola.Domain.pdb
+C:\Users\manoe\OneDrive\Documentos\Project\Escola\Escolha.Application\obj\Debug\net8.0\Escola.Application.csproj.AssemblyReference.cache
+C:\Users\manoe\OneDrive\Documentos\Project\Escola\Escolha.Application\obj\Debug\net8.0\Escola.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manoe\OneDrive\Documentos\Project\Escola\Escolha.Application\obj\Debug\net8.0\Escola.Application.AssemblyInfoInputs.cache
+C:\Users\manoe\OneDrive\Documentos\Project\Escola\Escolha.Application\obj\Debug\net8.0\Escola.Application.AssemblyInfo.cs
+C:\Users\manoe\OneDrive\Documentos\Project\Escola\Escolha.Application\obj\Debug\net8.0\Escola.Application.csproj.CoreCompileInputs.cache
+C:\Users\manoe\OneDrive\Documentos\Project\Escola\Escolha.Application\obj\Debug\net8.0\Escola.Application.csproj.CopyComplete
+C:\Users\manoe\OneDrive\Documentos\Project\Escola\Escolha.Application\obj\Debug\net8.0\Escola.Application.dll
+C:\Users\manoe\OneDrive\Documentos\Project\Escola\Escolha.Application\obj\Debug\net8.0\refint\Escola.Application.dll
+C:\Users\manoe\OneDrive\Documentos\Project\Escola\Escolha.Application\obj\Debug\net8.0\Escola.Application.pdb
+C:\Users\manoe\OneDrive\Documentos\Project\Escola\Escolha.Application\obj\Debug\net8.0\ref\Escola.Application.dll
